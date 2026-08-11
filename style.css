@@ -39,6 +39,14 @@ h1 {
   color: #b0413e;
 }
 
+.o-color{
+  color: greenyellow;
+}
+
+.winner {
+  color: rgb(10, 241, 10) !important;
+}
+
 #new-btn{
   display: block;
   margin: 0 auto;
